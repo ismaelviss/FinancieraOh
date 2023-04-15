@@ -1,0 +1,242 @@
+[
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 23.1288,
+    "longitude": 113.259,
+    "name": "Guangzhou",
+    "population": 20902000
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 23.0475,
+    "longitude": 113.749,
+    "name": "Dongguan",
+    "population": 7981000
+  },
+  {
+    "country": "MX",
+    "is_capital": false,
+    "latitude": 20.6767,
+    "longitude": -103.348,
+    "name": "Guadalajara",
+    "population": 5253000
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 34.0244,
+    "longitude": 113.82,
+    "name": "Jiangguanchi",
+    "population": 4289000
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 30.4673,
+    "longitude": 106.634,
+    "name": "Guang\u0027an",
+    "population": 3723000
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 24.8011,
+    "longitude": 113.593,
+    "name": "Shaoguan",
+    "population": 2997600
+  },
+  {
+    "country": "EC",
+    "is_capital": false,
+    "latitude": -2.1833,
+    "longitude": -79.8833,
+    "name": "Guayaquil",
+    "population": 2723665
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 32.4353,
+    "longitude": 105.84,
+    "name": "Guangyuan",
+    "population": 2484122
+  },
+  {
+    "country": "GT",
+    "is_capital": true,
+    "latitude": 14.6099,
+    "longitude": -90.5252,
+    "name": "Guatemala City",
+    "population": 2450212
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 28.1958,
+    "longitude": 115.783,
+    "name": "Jianguang",
+    "population": 1507402
+  },
+  {
+    "country": "BR",
+    "is_capital": false,
+    "latitude": -23.4667,
+    "longitude": -46.5333,
+    "name": "Guarulhos",
+    "population": 1324781
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 28.1417,
+    "longitude": 113.625,
+    "name": "Guankou",
+    "population": 1168056
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 36.8833,
+    "longitude": 118.733,
+    "name": "Shouguang",
+    "population": 1039205
+  },
+  {
+    "country": "NI",
+    "is_capital": true,
+    "latitude": 12.15,
+    "longitude": -86.2667,
+    "name": "Managua",
+    "population": 1028808
+  },
+  {
+    "country": "MX",
+    "is_capital": false,
+    "latitude": 21.876,
+    "longitude": -102.296,
+    "name": "Aguascalientes",
+    "population": 934424
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 34.85,
+    "longitude": 114.35,
+    "name": "Kaifeng Chengguanzhen",
+    "population": 872000
+  },
+  {
+    "country": "BR",
+    "is_capital": false,
+    "latitude": -22.74,
+    "longitude": -43.47,
+    "name": "Iguacu",
+    "population": 844583
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 31.6189,
+    "longitude": 113.823,
+    "name": "Guangshui",
+    "population": 755910
+  },
+  {
+    "country": "VE",
+    "is_capital": false,
+    "latitude": 8.3596,
+    "longitude": -62.6517,
+    "name": "Ciudad Guayana",
+    "population": 751331
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 35.4599,
+    "longitude": 113.798,
+    "name": "Chengguan",
+    "population": 740435
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 34.5221,
+    "longitude": 110.879,
+    "name": "Lingbao Chengguanzhen",
+    "population": 721049
+  },
+  {
+    "country": "MX",
+    "is_capital": false,
+    "latitude": 25.6775,
+    "longitude": -100.26,
+    "name": "Guadalupe",
+    "population": 691931
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 28.8049,
+    "longitude": 113.075,
+    "name": "Miluo Chengguanzhen",
+    "population": 692080
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 30.9933,
+    "longitude": 103.624,
+    "name": "Guankou",
+    "population": 671200
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 35.7004,
+    "longitude": 114.98,
+    "name": "Puyang Chengguanzhen",
+    "population": 666322
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 34.723,
+    "longitude": 112.78,
+    "name": "Yanshi Chengguanzhen",
+    "population": 666696
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 32.7816,
+    "longitude": 117.99,
+    "name": "Mingguang",
+    "population": 532732
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 45.3357,
+    "longitude": 122.776,
+    "name": "Guangming",
+    "population": 437559
+  },
+  {
+    "country": "BR",
+    "is_capital": false,
+    "latitude": -23.9936,
+    "longitude": -46.2564,
+    "name": "Guaruja",
+    "population": 311230
+  },
+  {
+    "country": "CN",
+    "is_capital": false,
+    "latitude": 35.6,
+    "longitude": 103.217,
+    "name": "Linxia Chengguanzhen",
+    "population": 274466
+  }
+]

@@ -1,7 +1,7 @@
 # Prueba Financiera Oh
 ## Para ejecutar el proyecto de FinancieraOh solo se necesita clonar el repositorio y listo!
 ```sh
-git clone git@bitbucket.org:ismaelviss/fzsports.git
+git clone https://github.com/ismaelviss/FinancieraOh.git
 ```
 
 ## Funciones disponibles
